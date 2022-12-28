@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
+global.sig = 'https://instagram.com/Nazril36'
+global.syt = '-'
+global.sgh = 'https://github.com/NazrilOfficiall'
+global.sgc = 'https://chat.whatsapp.com/KeA2YNkBvddIp70ReuqfKF'
+global.swa = 'wa.me/6281393160368'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
+global.pdana = '-'
 global.povo = '-'
-global.pgopay = '088279268363'
+global.pgopay = '081393160368'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = 'https://saweria.co/raraharsita Hyo2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '6285228129591'
+global.nomorown = '6281393160368'
+global.namebot = '𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿ラ'
+global.nameown = 'ᴹᴿ᭄ 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['6281393160368', 'ᴹᴿ᭄ 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,34 +96,34 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
+global.wm = '𝐍𝐚𝐳𝐫𝐢𝐥𝐌𝐃ラ | By ᴹᴿ᭄ 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 ×፝֟͜×' //Main Watermark
 global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm3 = '𝐍𝐚𝐳𝐫𝐢𝐥𝐌𝐃ラ | By ᴹᴿ᭄ 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.titlebot = `𝐍𝐚𝐳𝐫𝐢𝐥𝐌𝐃ラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.thumb = 'https://telegra.ph/file/c1aa945f8cf68e488df90.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/c1aa945f8cf68e488df90.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
 global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.thumbs = ['https://telegra.ph/file/c1aa945f8cf68e488df90.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya Nazril BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/c1aa945f8cf68e488df90.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nameowner = 'ᴹᴿ᭄ 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡 ×፝֟͜×'
 global.umurowner = '22'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
-global.pacarowner = 'Kepo amat sih;v'
+global.asalowner = 'jawa tengah, Purbalingga'
+global.nomorowner = 'wa.me/6281393160368'
+global.pacarowner = 'Kamu nanya?;v'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -372,7 +372,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `King Of Bear`
+global.stickauth = `𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡`
 
 global.multiplier = 38 // The higher, The harder levelup
 
